@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=amandagpearce%2Famandagpearce&countColor=%23ba68c8)
 <!--
 **amandagpearce/amandagpearce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
